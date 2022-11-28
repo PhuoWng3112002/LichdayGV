@@ -1,0 +1,13 @@
+F:\C#\LichdayGV\LichdayGV\bin\Debug\LichdayGV.exe.config
+F:\C#\LichdayGV\LichdayGV\bin\Debug\LichdayGV.exe
+F:\C#\LichdayGV\LichdayGV\bin\Debug\LichdayGV.pdb
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.csproj.AssemblyReference.cache
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.Form1.resources
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.Properties.Resources.resources
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.csproj.GenerateResource.cache
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.csproj.CoreCompileInputs.cache
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.exe
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.pdb
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.FormLDGV.resources
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.Login.resources
+F:\C#\LichdayGV\LichdayGV\obj\Debug\LichdayGV.TKB.resources
